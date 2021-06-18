@@ -8,13 +8,15 @@
 
 ---
 <details>
+  <summary>⭐ GitHub Stats</summary>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanwhite99&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juanwhite99&show_icons=true&hide_border=true" />
+</details>
+
+<details>
   <summary>📕 Latest Read Blog Posts</summary>
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
 </details>
 
-<details>
-  <summary>⭐ GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanwhite99&show_icons=true&hide_border=true" />
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juanwhite99&show_icons=true&hide_border=true" />
-</details>
+
