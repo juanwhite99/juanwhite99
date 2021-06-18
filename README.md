@@ -6,3 +6,6 @@
 	- 🌐 [Linkedin](https://www.linkedin.com/in/juan-pablo-lb99/)
 	- 🌎 [https://juanwhite99.github.io](https://juanwhite99.github.io/)
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
