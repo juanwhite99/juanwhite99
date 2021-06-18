@@ -6,15 +6,14 @@
 	- 🌐 [Linkedin](https://www.linkedin.com/in/juan-pablo-lb99/)
 	- 🌎 [https://juanwhite99.github.io](https://juanwhite99.github.io/)
 
+---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.juanwhite99.vercel.app/api?username=juanwhite99&show_icons=true&hide_border=true" />
-
+  <summary>⭐ GitHub Stats</summary>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juanwhite99&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanwhite99&show_icons=true&hide_border=true" />
 </details>
