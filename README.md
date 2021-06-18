@@ -9,3 +9,12 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.juanwhite99.vercel.app/api?username=juanwhite99&show_icons=true&hide_border=true" />
+
+</details>

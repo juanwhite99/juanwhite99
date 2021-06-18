@@ -14,5 +14,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/juanpablolopez,https://dev.to/feed/tag/angular"
-
-          
