@@ -16,7 +16,8 @@
 <details>
   <summary>📕 Latest Blog Posts</summary>
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [Short easy to read .Net Framework and .Net Core History timeline](https://dev.to/juanpablolopez/short-easy-to-read-net-framework-and-net-core-history-timeline-2bem)
+<!-- BLOG-POST-LIST:END -->
 </details>
 
 
