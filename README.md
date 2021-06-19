@@ -14,7 +14,7 @@
 </details>
 
 <details>
-  <summary>📕 Latest Read Blog Posts</summary>
+  <summary>📕 Latest Blog Posts</summary>
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
 </details>
