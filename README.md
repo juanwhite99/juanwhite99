@@ -4,7 +4,7 @@
 - 🎮 I'm always interested to talk about videogames
 - 🔌 Useful Links
 	- 🌐 [Linkedin](https://www.linkedin.com/in/juan-pablo-lb99/)
-	- 🌎 [https://juanwhite99.github.io](https://juanwhite99.github.io/)
+	- 🌎 [My github-page](https://juanwhite99.github.io/gh-page/)
 
 ---
 📕 Latest Blog Posts
