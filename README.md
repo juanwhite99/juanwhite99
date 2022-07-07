@@ -5,10 +5,10 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/juan-pablo-lb99/">
-      <img src="https://img.shields.io/badge/-Linkedin-blue" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://juanwhite99.github.io/gh-page/">
-      <img src="https://img.shields.io/badge/-Github%20Page-blue" alt="Github Page" />
+      <img src="https://img.shields.io/badge/-Github%20Page-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Page" />
     </a>
 </div>
 
