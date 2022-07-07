@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/juan-pablo-lb99/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://juanwhite99.github.io/gh-page/" target="_blank" rel="noopener noreferrer">
+    <a href="https://juanwhite99.github.io" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-Github%20Page-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Page" />
     </a>
 </div>
